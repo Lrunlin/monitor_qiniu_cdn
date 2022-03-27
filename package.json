@@ -1,0 +1,21 @@
+{
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author":"刘润霖 353575900@qq.com",
+  "homepage": "blogweb.cn",
+  "description":"一个监测七牛云CDN使用量的程序",
+   "repository": {
+     "type": "git",
+     "url": "https://github.com/Lrunlin/monitor_qiniu_cdn.git"
+   },
+   "bugs": "https://github.com/Lrunlin/monitor_qiniu_cdn/issues",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "js-base64": "^3.7.2",
+    "moment": "^2.29.1",
+    "nodemailer": "^6.7.3",
+    "nodemon": "^2.0.15",
+    "qiniu": "^7.4.0"
+  }
+}
