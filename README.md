@@ -7,4 +7,4 @@
 
 # 参数
 在qiniu.config.js中填写，里面包含注释以及示范
-![参数配置](https://disk.blogweb.cn/open-source/monitor_qiniu_cdn/params.svg "参数配置")
+![参数配置](http://disk.blogweb.cn/open-source/monitor_qiniu_cdn/params.svg "参数配置")
