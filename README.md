@@ -10,4 +10,4 @@ Node.js 应用，防止七牛云 CDN 遭到 CC 攻击，每日访问量到达所
 # 参数
 
 在 qiniu.config.js 中填写，里面包含注释以及示范
-![参数配置](https://disk.blogweb.cn/open-source/monitor_qiniu_cdn/params.svg "参数配置")
+![参数配置](https://disk.blogweb.cn/open-source/monitor_qiniu_cdn/params.png "参数配置")
