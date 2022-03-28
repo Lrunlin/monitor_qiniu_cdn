@@ -1,5 +1,5 @@
 module.exports = {
-    // 申请开发者Key:https: //portal.qiniu.com/user/key
+    // 申请开发者Key:https://portal.qiniu.com/user/key
     accessKey: '',
     secretKey: '',
     //时间粒度  5min ／ hour ／day
@@ -16,7 +16,7 @@ module.exports = {
     //邮箱:系统请求下线域名后会对你所留邮箱发送提示
     email: '353575900@qq.com',
     // 是否每次请求时打印日志（默认:false）
-    consoleLog: false,
+    consoleLog: true,
     // 多长时间检测到一次（ms）,默认1000
     //!不得小于20（七牛云限制qps为100）
     interval: 1000
